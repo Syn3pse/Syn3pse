@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Miler;Developer+%7C+Content+Creator+%7C+Instructor;Building+in+the+AI+Era+🚀;180K%2B+YouTube+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Dogsausage;Developer+%7C+Content+Cyber Security+%7C+Instructor;Building+in+the+AI+Era+🚀;Fackbook%2B+YouTube+Creator" />
 </p>
 
 <h3 align="center">🚀 Code • Teach • Scale • Repeat</h3>
