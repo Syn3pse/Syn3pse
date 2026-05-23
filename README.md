@@ -45,14 +45,12 @@
 
 ## 🔑 Core Philosophy & Mindset
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A1%EF%B8%8F-%E2%80%9CThe%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear.%E2%80%9D-111418?style=flat-square" alt="Quote 1" /><br/>
-  <img src="https://img.shields.io/badge/%F0%9F%9B%B8-Understand%20the%20defense%20by%20mastering%20the%20offense.-111418?style=flat-square" alt="Quote 2" /><br/><br/>
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5-%E2%80%9CTry%20Harder.%20If%20it%E2%80%99s%20secure%20today%2C%20it%E2%80%99s%20outdated%20tomorrow.%E2%80%9D-111418?style=flat-square" alt="Quote 3" /><br/>
-  <img src="https://img.shields.io/badge/%E2%9A%A1-Code%20to%20build%2C%20hack%20to%20understand%2C%20AI%20to%20accelerate.-111418?style=flat-square" alt="Quote 4" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=FFFFFF&vCenter=true&width=950&height=110&lines=%F0%9F%91%81%EF%B8%8F+%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;Understand+the+defense+by+mastering+the+offense.;%F0%9F%94%A5+%E2%80%9CTry+Harder.+If+it%E2%80%99s+secure+today%2C+it%E2%80%99s+outdated+tomorrow.%E2%80%9D;Code+to+build%2C+hack+to+understand%2C+AI+to+accelerate." alt="Philosophy" />
 </p>
 
 ---
 
 ## 🦾 In The AI Era
 <p align="center">
-  <img src="
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FFFFFF&vCenter=true&width=950&height=90&lines=%F0%9F%A7%A0+%E2%80%9CAI+won't+write+the+flawless+code%2C+nor+will+it+build+the+perfect+defense%E2%80%94that+demands+human+logic.%E2%80%9D;Leveraging+intelligent+systems+to+architect+cleaner+code+and+unbreakable+logic." alt="AI Era" />
+</p>
