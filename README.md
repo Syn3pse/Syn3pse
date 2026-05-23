@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Dogsausage;💻+Computer+Science+Student;🛡️+Cyber+Security+Enthusiast+%7C+🎮+CTF+Player;🤖+AI+Workflow+Integrator+%7C+⚡+Developer;🚀+Hacking+the+Future" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dogsausage;%F0%9F%92%BB+CS+Student+%40MSU;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security;%F0%9F%8E%AE+CTF+Player;%F0%9F%A7%A0+AI+%26+Malware+Analysis;%F0%9F%9A%80+Hacking+the+Future" alt="Typing SVG" />
 </p>
 
 <h3 align="center">⚡ Learn・Cyber・AI・Code ⚡</h3>
