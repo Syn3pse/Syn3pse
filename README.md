@@ -11,7 +11,7 @@
 - 🎯 **Focus :** Offensive Security, Malware Analysis (Ransomware / File Infector) & Linux Administration (Kali)
 - 🤖 **Tech & AI :** Integrating AI for secure coding, code auditing & rapid workflow
 - 🚀 **Goal :** Master end-to-end cyber ops, hardware security & firmware auditing
-- <p align="left">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
