@@ -4,10 +4,6 @@
 
 <h3 align="center">〖 Code ・Teach ・Scale ・Repeat 〗</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</div>
-
 ---
 
 ## 🧾 About Me
@@ -15,6 +11,9 @@
 - 🎯 **Focus :** Offensive Security, Malware Analysis (Ransomware / File Infector) & Linux Administration (Kali)
 - 🤖 **Tech & AI :** Integrating AI for secure coding, code auditing & rapid workflow
 - 🚀 **Goal :** Master end-to-end cyber ops, hardware security & firmware auditing
+- <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
