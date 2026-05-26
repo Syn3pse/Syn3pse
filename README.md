@@ -15,7 +15,7 @@
 - 🏫 **Computer Science Student @ Mahasarakham University**
 - 🎯 **Focus :** Offensive Security, Penetration Testing, Wargames & Nmap Scanning
 - 🤖 **Tech & AI :** Leveraging AI workflows for automated scanning & rapid development
-- 🚀 **Goal :** Master end-to-end cybersecurity operations and pursue global graduate research in the US or China, focusing on hardware-level security, secure chip design & firmware auditing
+- 🔥 **Goal :** Master end-to-end cybersecurity operations and pursue global graduate research in the US or China, focusing on hardware-level security, secure chip design & firmware auditing
 
 ---
 
