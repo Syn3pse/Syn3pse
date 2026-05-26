@@ -34,4 +34,23 @@
 
 ---
 
-##
+## ☕ Support Me
+<p align="center">
+  <a href="https://github.com/Dogsausage" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🔑 Core Philosophy & Mindset
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=FFFFFF&vCenter=true&width=950&height=110&lines=%F0%9F%91%81%EF%B8%8F+%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;%F0%9F%9B%B8+Understand+the+defense+by+mastering+the+offense.;%F0%9F%94%A5+%E2%80%9CTry+Harder.+If+it%E2%80%99s+secure+today%2C+it%E2%80%99s+outdated+tomorrow.%E2%80%9D;%E2%9A%A1+Code+to+build%2C+hack+to+understand%2C+AI+to+accelerate." alt="Philosophy" />
+</p>
+
+---
+
+## 🦾 In The AI Era
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FFFFFF&vCenter=true&width=950&height=90&lines=%F0%9F%A7%A0+%E2%80%9CAI+won't+write+the+flawless+code%2C+nor+will+it+build+the+perfect+defense%E2%80%94that+demands+human+logic.%E2%80%9D;%F0%9F%A7%AC+Leveraging+intelligent+systems+to+architect+cleaner+code+and+unbreakable+logic." alt="AI Era" />
+</p>
