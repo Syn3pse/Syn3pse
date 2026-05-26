@@ -27,7 +27,7 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,py,linux,bash,docker,git,github&theme=dark" />
 </p>
