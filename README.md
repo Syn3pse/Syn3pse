@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=850&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dogsausage;Computer+Science+Student;Cyber+Security+Enthusiast+%7C+CTF+Player;AI+%26+Malware+Analysis;Hacking+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="center">» Code・Teach・Scale・Repeat «</h3>
+<h3 align="center">» Code ・Teach ・Scale ・Repeat «</h3>
 
 ---
 
