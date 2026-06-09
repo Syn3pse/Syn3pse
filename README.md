@@ -38,10 +38,11 @@
 
 ## ☕ Support Me
 <p align="center">
-  <a href="https://github.com/Dogsausage" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20My%20Journey-ffdd00?style=for-the-badge&logo=github&logoColor=black"/>
+  <a href="https://buymeacoffee.com/wanginfotea" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
   </a>
 </p>
+
 
 ---
 
